@@ -7,7 +7,7 @@ export const Container = styled.div`
 `;
 
 export const Main = styled.main`
-  padding: 60px;
+  padding: 0px;
 
   section {
     padding: 20px;
@@ -38,13 +38,13 @@ export const Wrapper = styled.div`
 `;
 export const Colbg = styled.div`
   width: 50%;
-  min-width: 400px;
+  min-width: 360px;
   padding: 20px;
 `;
 
 export const Col = styled.div`
   width: 50%;
-  min-width: 400px;
+  min-width: 360px;
   padding: 20px;
 
   p {
