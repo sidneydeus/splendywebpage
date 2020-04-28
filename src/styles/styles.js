@@ -38,13 +38,13 @@ export const Wrapper = styled.div`
 `;
 export const Colbg = styled.div`
   width: 50%;
-  min-width: 360px;
+  min-width: 320px;
   padding: 20px;
 `;
 
 export const Col = styled.div`
   width: 50%;
-  min-width: 360px;
+  min-width: 320px;
   padding: 20px;
 
   p {
